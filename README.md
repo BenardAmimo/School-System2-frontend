@@ -1,4 +1,5 @@
-##SCHOOL MANAGEMENT SYSTEM
+#SCHOOL MANAGEMENT SYSTEM
+
 This is a very simple school System that has students , teachers , admin and courses.
 
 #Student
